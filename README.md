@@ -28,7 +28,7 @@
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <p align="left">
 <a href="https://github.com/arvandha121">
