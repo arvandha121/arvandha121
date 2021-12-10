@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">.
+## Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">.
 - Perkenalkan nama saya **Arief Nauvan Ramadha**
 - Saya seorang **Rebahaners | Beban Keluarga**
 - Mahasiswa Informatika Politeknik Negeri Malang
@@ -32,6 +32,7 @@
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
 <br><br>
 
+## :trophy: My Github Stats:
 <p align="left">
 <a href="https://github.com/arvandha121">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arvandha121&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
