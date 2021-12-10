@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(YAAHOOO!!!)&center=true&size=30">
+  </a>
+</h1>
+
 ### Hi There! 👋.
 
 Perkenalkan nama saya **Arief Nauvan Ramadha** .\
@@ -6,16 +12,12 @@ Saya seorang **Rebahaners | Beban Keluarga** .\
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun
-<i class="fab fa-instagram"></i>[Instagram](https://www.instagram.com/arvandha121)
+[Instagram](https://www.instagram.com/arvandha121)
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br>
+### My tools
+<code><img height="20" src="https://camo.githubusercontent.com/bcaa54d548fd733ac8bf00a8c9a26a87b6a4363870172dee0b8c697329819ba9/68747470733a2f2f7777772e67696f7364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30382f6a6176612d6c6f676f2e706e67"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   
 <p align="left">
 <a href="https://github.com/arvandha121">
