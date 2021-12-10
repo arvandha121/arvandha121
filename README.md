@@ -9,6 +9,13 @@
 - Saya seorang **Rebahaners | Beban Keluarga**
 - Mahasiswa Informatika Politeknik Negeri Malang
 
+## Sosial Media:
+<a href="https://www.instagram.com/arvandha121/" target="_blank">
+  <img align="left" alt="arvandha121's instagram | Instagram" width="35px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/>
+</a>
+
+<br>
+
 ## Languages: 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
@@ -22,13 +29,6 @@
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
-
-## Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun:
-<a href="https://www.instagram.com/arvandha121/" target="_blank">
-  <img align="left" alt="arvandha121's instagram | Instagram" width="35px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/>
-</a>
-
-<br>
 
 <p align="left">
 <a href="https://github.com/arvandha121">
