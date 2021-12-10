@@ -20,6 +20,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## Code Editors & Tools: 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -28,7 +29,6 @@
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
-<code><img height="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <p align="left">
 <a href="https://github.com/arvandha121">
