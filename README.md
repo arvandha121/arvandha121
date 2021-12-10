@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(YAAHOOO!!!)&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=YAAHOOO!!!&center=true&size=30">
   </a>
 </h1>
 
 ### Hi There! 👋.
+Perkenalkan nama saya **Arief Nauvan Ramadha**
+Saya seorang **Rebahaners | Beban Keluarga**
 
-Perkenalkan nama saya **Arief Nauvan Ramadha** .\
-
-Saya seorang **Rebahaners | Beban Keluarga** .\
+### Mahasiswa Informatika Politeknik Negeri Malang
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun
