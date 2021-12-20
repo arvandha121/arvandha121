@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=YAAHOOO!!!&center=true&size=35">
   </a>
 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&multiline=true&lines=YAAHOOO!!!;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 ## Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">.
 - Perkenalkan nama saya **Arief Nauvan Ramadha**
