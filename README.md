@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-## Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px">.
+## Hi There! <img style="width: 5px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">.
 - Perkenalkan nama saya **Arief Nauvan Ramadha**
 - Saya seorang **Rebahaners | Beban Keluarga**
 - Mahasiswa Informatika Politeknik Negeri Malang
