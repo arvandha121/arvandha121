@@ -31,7 +31,7 @@
 <br>
 
 ## Framework
-<code>![1200px-Laravel svg](https://github.com/arvandha121/arvandha121/assets/85327119/c544a252-0ff2-4a76-b9a7-0ddac18fa716)</code>
+<code><img height="35" src="https://github.com/arvandha121/arvandha121/assets/85327119/c544a252-0ff2-4a76-b9a7-0ddac18fa716"></code>
 
 <br>
 
