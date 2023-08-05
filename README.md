@@ -28,12 +28,8 @@
 <code><img height="43" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-<br>
-
 ## Framework
 <code><img height="35" src="https://github.com/arvandha121/arvandha121/assets/85327119/c544a252-0ff2-4a76-b9a7-0ddac18fa716"></code>
-
-<br>
 
 ## Code Editors & Tools: 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
