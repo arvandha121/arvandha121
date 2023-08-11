@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=arvandha121.visitor-badge&format=true)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&width=610&lines=YAAHOOO!!!;Welcome+to+my+Github+profile.">
@@ -40,6 +39,7 @@
 <br><br>
 
 ## :trophy: My Github Stats:
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=arvandha121.visitor-badge&format=true)
 <p align="left">
 <a href="https://github.com/arvandha121">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arvandha121&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
