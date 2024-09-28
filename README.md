@@ -9,9 +9,9 @@
 - Saya seorang **Rebahaners | Beban Keluarga**
 - Mahasiswa Informatika Politeknik Negeri Malang
 
-## Social Media:
+## My Linktree Website:
 <a href="https://arvandhaa.my.id/" target="_blank">
-  <img align="left" alt="linktree" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
+  <img align="left" alt="linktree" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
 </a>
 <br>
 
