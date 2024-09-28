@@ -13,7 +13,6 @@
 <a href="https://arvandhaa.my.id/" target="_blank">
   <img align="left" alt="linktree" height="75" width="75" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
 </a>
-<br>
 
 ## Languages: 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
