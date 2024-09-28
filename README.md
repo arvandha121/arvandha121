@@ -10,8 +10,8 @@
 - Mahasiswa Informatika Politeknik Negeri Malang
 
 ## Social Media:
-<a href="https://www.instagram.com/arvandhaa/" target="_blank">
-  <img align="left" alt="arvandhaa's instagram | Instagram" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">
+<a href="https://arvandhaa.my.id/" target="_blank">
+  <img align="left" alt="linktree" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
 </a>
 <br>
 
