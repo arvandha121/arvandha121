@@ -11,7 +11,7 @@
 
 ## My Linktree Website:
 <a href="https://arvandhaa.my.id/" target="_blank">
-  <img align="left" alt="linktree" height="75" width="75" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
+  <img align="left" alt="linktree" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/14018/14018584.png">
 </a>
 <br><br>
 
