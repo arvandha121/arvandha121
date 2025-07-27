@@ -6,8 +6,7 @@
 
 ## Hi There!.
 - Perkenalkan nama saya **Arief Nauvan Ramadha**
-- Saya seorang **Rebahaners | Beban Keluarga**
-- Mahasiswa Informatika Politeknik Negeri Malang
+- Alumni Mahasiswa Informatika Politeknik Negeri Malang
 
 ## My Linktree Website:
 <a href="https://arvandhaa.my.id/" target="_blank">
